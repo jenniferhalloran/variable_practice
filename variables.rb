@@ -8,3 +8,6 @@ pats_a_day = 10000
 
 bank_balance = 1.50
 gym_cost = 155.50
+
+is_broke = true
+loves_cats = true
